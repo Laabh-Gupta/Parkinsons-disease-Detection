@@ -1,0 +1,35 @@
+├───.ipynb_checkpoints
+├───archive
+│   ├───drawings
+│   │   ├───spiral
+│   │   │   ├───testing
+│   │   │   │   ├───healthy
+│   │   │   │   └───parkinson
+│   │   │   └───training
+│   │   │       ├───healthy
+│   │   │       └───parkinson
+│   │   └───wave
+│   │       ├───testing
+│   │       │   ├───healthy
+│   │       │   └───parkinson
+│   │       └───training
+│   │           ├───healthy
+│   │           └───parkinson
+│   ├───spiral
+│   │   ├───testing
+│   │   │   ├───healthy
+│   │   │   └───parkinson
+│   │   └───training
+│   │       ├───healthy
+│   │       └───parkinson
+│   └───wave
+│       ├───testing
+│       │   ├───healthy
+│       │   └───parkinson
+│       └───training
+│           ├───healthy
+│           └───parkinson
+└───Dataset_2
+    ├───.ipynb_checkpoints
+    ├───test
+    └───train
